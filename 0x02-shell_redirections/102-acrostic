@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c | pate -s -d ''
+cut -c 1 | pate -s -d ''
